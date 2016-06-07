@@ -1,0 +1,23 @@
+{
+  "CorrelationId": "CAS0064-CCIS-5846053980813511057756054451345130312383784402288288983226028591182807",
+  "Timestamp": "18989121T278270Z",
+  "EWN": [
+    {
+      "EWNId": "Z4QH888LO300PZIDFD1JMQBOAFCR6TK9L5B",
+      "Reference": "GALF5Z-EW-FOgJ"
+    },
+    {
+      "ContractCode": "7SYNHX",
+      "NCRReference": "",
+      "NCRId": "O8Y6NIKSPNUB27HJKR",
+      "Reference": "moJbLv-EW-85Th",
+      "EWNId": "DU4U3QAOWSOPGMGE7PYYUMF6J0JLOLV6U6P"
+    },
+    {
+      "Reference": "sw3y6C-EW-WPMk",
+      "NCRId": "5W6OQPRETNOFJ1K6PW",
+      "ContractCode": "IGZT6P",
+      "NCRReference": "cillum incididunt et"
+    }
+  ]
+}
